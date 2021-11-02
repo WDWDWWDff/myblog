@@ -12,4 +12,4 @@ tags: Python
 
 
 - git add . -> git commit -m "내용" -> git push
-- hexo server -> hexo generate hexo deploy완료 (github 저장 명령어)
+- hexo server(필수X) -> hexo generate hexo deploy 완료 (github 저장 명령어)
